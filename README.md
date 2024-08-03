@@ -16,14 +16,3 @@ Gestión de Pedidos: Los clientes pueden realizar pedidos directamente desde la 
 Actualización en Tiempo Real: La carta se actualiza automáticamente desde el servidor.
 Persistencia de Datos: Los datos se almacenan de manera segura y eficiente utilizando Realm.
 Instalación
-
-Clona este repositorio:
-git clone https://github.com/tu-usuario/tu-repositorio.git
-
-Abre el proyecto en Android Studio.
-Compila y ejecuta la aplicación en un dispositivo o emulador Android.
-Contribuciones
-¡Las contribuciones son bienvenidas! Si tienes alguna sugerencia o encuentras algún problema, por favor abre un issue o envía un pull request.
-
-Contacto
-Si tienes alguna pregunta o necesitas más información, no dudes en contactarme a través de [tu correo electrónico] o en LinkedIn: [tu perfil de LinkedIn].
