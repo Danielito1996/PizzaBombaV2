@@ -20,6 +20,8 @@ Instalación
 Clona este repositorio:
 git clone https://github.com/Danielito1996/PizzaBombaV2.git
 
+La API utilizada para dar servicio a este proyecto esta dentro de mis repositorios , esta diseñada en ASP.NET con C# , puedes encontrarlo en este enlace https://github.com/Danielito1996/TiendaAPI.git  
+
 Abre el proyecto en Android Studio.
 Compila y ejecuta la aplicación en un dispositivo o emulador Android.
 Contribuciones
